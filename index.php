@@ -10,5 +10,7 @@
     <?php echo "It Works!";?>
 
     <p>This is a paragraph tag, testing for deployment.</p>
+
+    <p>Automatic releaase</p>
 </body>
 </html>
