@@ -14,5 +14,7 @@
     <p>Automatic releaase</p>
 
     <p>I have an update to check if release is automatic</p>
+
+    <p> This is an update for chris!</p>
 </body>
 </html>
