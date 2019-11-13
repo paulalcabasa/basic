@@ -12,5 +12,7 @@
     <p>This is a paragraph tag, testing for deployment.</p>
 
     <p>Automatic releaase</p>
+
+    <p>I have an update to check if release is automatic</p>
 </body>
 </html>
